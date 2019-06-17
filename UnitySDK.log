@@ -1,0 +1,617 @@
+6/17/2019 12:05:36 PM
+ 
+Log
+human transform.position:2 1 17
+UnityEngine.Debug:Log(Object)
+MoveCube:Reset() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/MoveCube.cs:94)
+MoveCube:Awake() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/MoveCube.cs:42)
+
+Log
+agent transform.position:2 1 117
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:AgentReset() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:352)
+MLAgents.Agent:_AgentReset() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:895)
+MLAgents.Academy:ForcedFullReset() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:563)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:606)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2 1 117
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.00299 1 116.9948
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.005421 1 116.9894
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.009324 1 116.9783
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.013748 1 116.9618
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.017768 1 116.9398
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.020496 1 116.9127
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.021097 1 116.8807
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.018796 1 116.8445
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.012893 1 116.8044
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:2.002773 1 116.7611
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.98791 1 116.7154
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.967877 1 116.6679
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.942352 1 116.6195
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.911121 1 116.5709
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.874079 1 116.5231
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.831233 1 116.4768
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.782699 1 116.433
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.7287 1 116.3923
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.669564 1 116.3556
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.605715 1 116.3237
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.537667 1 116.2971
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.466018 1 116.2766
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.391438 1 116.2625
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.314659 1 116.2554
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.236467 1 116.2555
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.157685 1 116.2633
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.079165 1 116.2786
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:1.001773 1 116.3017
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.926379 1 116.3325
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.8538413 1 116.3707
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.784997 1 116.4161
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.7206491 1 116.4684
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.6615556 1 116.5271
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.6084191 1 116.5916
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.5618774 1 116.6613
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.5224947 1 116.7355
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.4907549 1 116.8135
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.4670545 1 116.8944
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.4516983 1 116.9773
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.4448949 1 117.0615
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.4467549 1 117.146
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.4397821 1 117.2019
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.4261381 1 117.2325
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.4095277 1 117.2438
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.3908994 1 117.2443
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.3690163 1 117.2388
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.3429435 1 117.2301
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.312211 1 117.22
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.2766671 1 117.2098
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+agent transform.position:0.2363821 1 117.2007
+UnityEngine.Debug:Log(Object)
+WallJumpAgent:MoveAgent(Single[]) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:304)
+WallJumpAgent:AgentAction(Single[], String) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/Scripts/WallJumpAgent.cs:309)
+MLAgents.Agent:AgentAction(Single[], String, CustomAction) (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent:AgentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy:EnvironmentStep() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy:FixedUpdate() (at C:/data/ml-agents/old/ml-agents/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:655)
+
